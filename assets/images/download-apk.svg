@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="180" height="54" viewBox="0 0 180 54" role="img" aria-label="Download APK">
+  <rect x="1" y="1" width="178" height="52" rx="9" fill="#ffffff" stroke="#555555" stroke-width="2"/>
+  <path d="M25 12v19m0 0l-7-7m7 7l7-7" stroke="#333333" stroke-width="3" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+  <line x1="14" y1="40" x2="36" y2="40" stroke="#333333" stroke-width="3" stroke-linecap="round"/>
+  <text x="48" y="27" font-family="Arial, Helvetica, sans-serif" font-size="9" fill="#666666">DIRECT</text>
+  <text x="48" y="42" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="600" fill="#333333">Download APK</text>
+</svg>

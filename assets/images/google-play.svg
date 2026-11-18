@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="180" height="54" viewBox="0 0 180 54" role="img" aria-label="Get it on Google Play">
+  <rect width="180" height="54" rx="9" fill="#000000"/>
+  <polygon points="16,11 16,43 32,27" fill="#00d1ff"/>
+  <polygon points="16,11 28,23 32.5,18.5" fill="#00f076"/>
+  <polygon points="16,43 28,31 32.5,35.5" fill="#ff3a44"/>
+  <polygon points="28,23 28,31 35,27" fill="#ffcd00"/>
+  <text x="46" y="23" font-family="Arial, Helvetica, sans-serif" font-size="8.5" fill="#ffffff">GET IT ON</text>
+  <text x="46" y="40" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="600" fill="#ffffff">Google Play</text>
+</svg>

@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="180" height="54" viewBox="0 0 180 54" role="img" aria-label="Explore it on Huawei AppGallery">
+  <rect x="1" y="1" width="178" height="52" rx="9" fill="#ffffff" stroke="#c8102e" stroke-width="2"/>
+  <rect x="14" y="14" width="22" height="27" rx="4" fill="#c8102e"/>
+  <circle cx="25" cy="36" r="2" fill="#ffffff"/>
+  <text x="46" y="23" font-family="Arial, Helvetica, sans-serif" font-size="8.5" fill="#c8102e">EXPLORE IT ON</text>
+  <text x="46" y="40" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="600" fill="#111111">AppGallery</text>
+</svg>
